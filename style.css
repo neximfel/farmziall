@@ -16,6 +16,8 @@ nav{
     justify-content: space-between;
     margin: 0 auto;
     align-items: center;
+    position: fixed;
+    background-color: #177165;
 }
 ul{
     width: 28%;
